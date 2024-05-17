@@ -1,2 +1,1 @@
-# astronomi.ungvetenskapssport.se
-Ung Vetenskapssports Astronomers hemsida
+# UVS Astronomers hemsida
